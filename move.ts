@@ -3,6 +3,6 @@ export function someFunction() {
   console.log(name);
   const age = 100;
   console.log(age);
-  `I am a .js file`;
+  `I am a .ts file`;
   return `I am ${name} and I am ${age} years old.`;
 }
